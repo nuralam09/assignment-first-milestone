@@ -89,16 +89,31 @@ img{
   color: brown;
   margin-left: 25%;
   margin-right: 20px;
+  
 }
 .email-subscribe{
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-top: 20px;
+  margin-left: 450px;
+  margin-right: 300px;
   background-color: aquamarine;
   padding: 50px;
-  
+  display: inline-flex;
 
 }
+input[type="email"]{
+  height: 25px;
+  
+}
 
+input[type="submit"]{
+  
+  height: 32px;
+  margin-left: -8px;
+  background-color: tomato;
+  border: none;
+  font-size: 15px;
+  border-radius: 1px 5px 5px 1px;
+}
  footer{
   background-color: black;
   color: tomato;
