@@ -49,22 +49,28 @@ ul{
   padding: 30px 30px;
   left: 30px;
  }
+ #taka-donate{
+  background-color: rgb(242, 160, 160);
+  border: 2px solid red;
+}
+
  .input-text{
   width: 50%;
   height: 30px; 
   
  }
 
+   
  
-  
 
 .donation-plan{
   display: flex;
   margin-bottom: 20px;
   
+  
 }
 .donate-plan-div{
-  
+  width: 400px;
   height: 250px;
   margin: 10px;
   border-radius: 5px;
